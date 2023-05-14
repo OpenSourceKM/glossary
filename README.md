@@ -8,6 +8,12 @@
 |----|----|----|----|----|
 | 开源| Open Source| OS | | |
 | 开源软件 | Open Source Software | OSS  |  | 自由软件|
+| 源代码 | Source Code ||||
+| 目标代码 | Oject Code ||||
+| 衍生模块 | Derivative Module ||||
+| 独立模块 | Separate Module ||||
+| 项目 | Project ||||
+| 模块 | Module ||||
 | 自由/开源软件| Free/Libre and Open Source Software | FLOSS || 免费软件 |
 | GNU | GNU is not Unix | GNU |||
 | GNU通用许可证 | GNU General Public License | GPL |||
@@ -24,6 +30,9 @@
 | 维护者| Maintainer ||||
 | 提交者| Committer ||||
 | 贡献者| Contributor ||||
+| 创始贡献者 | Initial Contributor ||||
+| 参与贡献者 | Subsequent Contributor ||||
+| 接受者 | Recipient ||||
 | 贡献 | Contribution ||||
 | 代码仓库| Repository||||
 | 提交| Commit ||||
@@ -35,7 +44,7 @@
 | 无意见同意/我没问题 | Looks Good To Me | LGTM |||
 | 变更列表 | ChangeList | CL |||
 | 发布 | Release ||||
-| 库 | Library ||||
+| 库 | Library ||| 类库 |
 | 自述文件 | README |||||
 | 无意见同意/我没问题 | Looks Good To Me | LGTM |||
 | 开源基金会| Open Source Foundation ||||
@@ -44,9 +53,9 @@
 | 特别兴趣小组| Sepcial Interest Group |SIG|||
 | 技术咨询小组| Technical Advisory Group |TAG|||
 | 技术监督委员会| Technical Oversight Commitee |TOC|||
-| 开源许可证| Open Source License ||||
+| 开源许可证| Open Source License ||| 开源协议 |
 | 开源治理| Open Source Governance ||||
-| 开源项目办公室| Open Source Program Office |OSPO|||
+| 开源项目办公室| Open Source Program Office | OSPO || 开源办公室 |
 | 行为准则| Code of Conduct |||| 
 | 黑客马拉松 | Hackthon ||||
 | 开发者贡献许可 | Contributor License Agreement | CLA |||
