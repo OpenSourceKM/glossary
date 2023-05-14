@@ -2,6 +2,8 @@
 
 # 开源术语表 Glossary of Open Source 
 
+前往 [OSKM 开源知识地图](https://github.com/OpenSourceKM/oskm/)
+
 | 术语 | 英文 | 缩写 | 说明 | 关联/需要区分|
 |----|----|----|----|----|
 | 开源| Open Source| OS | | |
@@ -56,3 +58,7 @@
 | 终生仁慈的独裁者 |  | BDFL |||
 | 软件著作权 | | | | 知识产权，版权，著作权，专利 |
 
+
+
+
+前往 [OSKM 开源知识地图](https://github.com/OpenSourceKM/oskm/)
