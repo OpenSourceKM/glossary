@@ -46,7 +46,6 @@
 | 发布 | Release ||||
 | 库 | Library ||| 类库 |
 | 自述文件 | README |||||
-| 无意见同意/我没问题 | Looks Good To Me | LGTM |||
 | 开源基金会| Open Source Foundation ||||
 | 社区治理 | Community Governance ||||
 | 工作组| Work Group |WG|||
