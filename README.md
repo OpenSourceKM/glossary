@@ -52,6 +52,7 @@
 | 特别兴趣小组| Sepcial Interest Group |SIG|||
 | 技术咨询小组| Technical Advisory Group |TAG|||
 | 技术监督委员会| Technical Oversight Commitee |TOC|||
+| 技术顾问委员会| Technical Advisory Board| TAB | ||
 | 开源许可证| Open Source License ||| 开源协议 |
 | 开源治理| Open Source Governance ||||
 | 开源项目办公室| Open Source Program Office | OSPO || 开源办公室 |
