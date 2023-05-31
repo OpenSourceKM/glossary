@@ -22,7 +22,7 @@
 | 公有软件 | Public Domain Software ||||
 | 闭源软件| Closed Source Software | CSS |||
 | 商业软件 | Business Software ||||
-| 商业开源软件 |   ||||
+| 商业开源软件 | Commercial Open Source Software | COSS |||
 | 开放核心 | Open Core ||||
 | 开源项目 | Open Source Project ||||
 | 开源共同体 | Open Source Community |||开源社区|
