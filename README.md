@@ -65,7 +65,7 @@
 | 版权 | Copyright ||||
 | 反版权 | Copyleft ||||
 | 终生仁慈的独裁者 | Benevolent Dictator For Life | BDFL |||
-| 软件著作权 | | | | 知识产权，版权，著作权，专利 |
+| 软件著作权 | Software Copyright | | | 知识产权，版权，著作权，专利 |
 
 
 
