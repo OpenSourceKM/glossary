@@ -50,6 +50,11 @@
 | 发布 | Release ||||
 | 库 | Library ||| 类库 |
 | 自述文件 | README |||||
+| 持续集成 | Continuous integration | CI |||
+| 持续部署 | Continuous Deployment | CD |||
+| 持续交付 | Continuous Delivery | CD |||
+| 开发运维一体化 || DevOps |||
+| 左移 | Shift Left ||||
 | 开源基金会| Open Source Foundation ||||
 | 社区治理 | Community Governance ||||
 | 工作组| Work Group |WG|||
@@ -75,3 +80,10 @@
 
 
 前往 [OSKM 开源知识地图](https://github.com/OpenSourceKM/oskm/)
+
+## 其他术语表
+- [CNCF 云原生词汇表](https://glossary.cncf.io/zh-cn/)
+- [商业开源软件 (COSS) 词汇表](https://devpress.csdn.net/opensource/62f91a8bc6770329307fd2b3.html)
+- [Open Source Terminologies](https://www.geeksforgeeks.org/open-source-terminologies/ )
+- [OPEN DATA HANDBOOK Glossary](https://opendatahandbook.org/glossary/en/)
+- [NIST: Information Technology Laboratory COMPUTER SECURITY RESOURCE CENTER](https://csrc.nist.gov/glossary)
