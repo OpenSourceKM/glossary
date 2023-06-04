@@ -14,7 +14,8 @@
 | 独立模块 | Separate Module ||||
 | 项目 | Project ||||
 | 模块 | Module ||||
-| 自由/开源软件| Free/Libre and Open Source Software | FLOSS || 免费软件 |
+| 应用程序接口 | Application Programming Interface | API |||
+| 自由和开源软件| Free/Libre and Open Source Software | FLOSS/FOSS || 免费软件 |
 | GNU | GNU is not Unix | GNU |||
 | GNU通用许可证 | GNU General Public License | GPL |||
 | 专有软件 | Proprietary Software ||||
@@ -24,6 +25,9 @@
 | 商业软件 | Business Software ||||
 | 商业开源软件 | Commercial Open Source Software | COSS |||
 | 开放核心 | Open Core ||||
+| 公共领域软件 | | | 在没有版权许可条件下提供的软件 | |
+| 单一供应商 |||||
+| 多供应商 |||||
 | 开源项目 | Open Source Project ||||
 | 开源共同体 | Open Source Community |||开源社区|
 | 社区经理 | Community Manager ||||
