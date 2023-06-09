@@ -26,8 +26,8 @@
 | 商业开源软件 | Commercial Open Source Software | COSS |||
 | 开放核心 | Open Core ||||
 | 公共领域软件 | | | 在没有版权许可条件下提供的软件 | |
-| 单一供应商 |||||
-| 多供应商 |||||
+| 单一供应商 | Single-vendor ||||
+| 多供应商 | Multi-vendor ||||
 | 开源项目 | Open Source Project ||||
 | 开源共同体 | Open Source Community |||开源社区|
 | 社区经理 | Community Manager ||||
@@ -55,6 +55,10 @@
 | 持续交付 | Continuous Delivery | CD |||
 | 开发运维一体化 || DevOps |||
 | 左移 | Shift Left ||||
+| 导师 | Mentor ||||
+| 学员 | Mentee ||||
+| 导师关系 | Mertorship ||||
+| 导师计划 | Mentorship Porgram ||||
 | 开源基金会| Open Source Foundation ||||
 | 社区治理 | Community Governance ||||
 | 工作组| Work Group |WG|||
@@ -72,7 +76,7 @@
 | 国际化 | Internationalization | i18n |||
 | 本地化 | Localization | l10n |||
 | 版权 | Copyright ||||
-| 反版权 | Copyleft ||||
+| 著佐权 | Copyleft ||||
 | 终生仁慈的独裁者 | Benevolent Dictator For Life | BDFL |||
 | 软件著作权 | Software Copyright | | | 知识产权，版权，著作权，专利 |
 
